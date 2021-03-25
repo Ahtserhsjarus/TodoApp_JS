@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: azure;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.mainContainer {
+  margin: 20px 20px;
+  border: 1px solid;
+  padding: 20px 20px;
+}
+
+/* to do */
+.mainContainer header {
+}
